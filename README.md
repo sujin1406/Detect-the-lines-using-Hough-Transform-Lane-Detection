@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 ```
 # Step 2: Read the Image
 ```
-img = cv2.imread("lan.jpg")
+img = cv2.imread("porsche.jpg")
 
 if img is None:
     print("Error: Image not found. Check the image path.")
